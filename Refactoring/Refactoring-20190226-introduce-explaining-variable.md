@@ -1,6 +1,6 @@
 # Introduce Explaining Variable : 복잡한 수식을 임시변수로
 
-<p align="right">2019-02-23</p>
+<p align="right">2019-02-26</p>
 
 
 
